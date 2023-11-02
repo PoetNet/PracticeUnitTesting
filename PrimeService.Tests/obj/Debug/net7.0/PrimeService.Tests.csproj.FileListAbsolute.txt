@@ -1,10 +1,6 @@
 C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
 C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\testhost.dll
 C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\testhost.exe
-C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
-C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
-C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -104,3 +100,7 @@ C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\obj\D
 C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\obj\Debug\net7.0\PrimeService.Tests.pdb
 C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\obj\Debug\net7.0\PrimeService.Tests.genruntimeconfig.cache
 C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\obj\Debug\net7.0\ref\PrimeService.Tests.dll
+C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Роман\Desktop\Other\Pracitce\testPractice\PrimeService.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
